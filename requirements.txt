@@ -1,5 +1,5 @@
 docx2txt==0.8
 voila
-ipywidgets
+ipywidgets==7.5.1
 gensim==3.6.0
 matplotlib==3.2.2
