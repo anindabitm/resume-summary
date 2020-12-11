@@ -1,0 +1,5 @@
+docx2txt==0.8
+voila
+ipywidgets
+gensim==3.6.0
+matplotlib==3.2.2
